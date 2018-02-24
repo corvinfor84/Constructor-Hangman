@@ -1,0 +1,26 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "hangman",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corvinfor84/Constructor-Hangman.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corvinfor84/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/corvinfor84/Constructor-Hangman#readme"
+}
